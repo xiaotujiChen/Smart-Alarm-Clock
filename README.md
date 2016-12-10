@@ -1,1 +1,2 @@
-# Smart-Alarm-Clock-with-Raspberry-Pi
+# ECE5725
+Final Project for Embedded System
